@@ -1,0 +1,6 @@
+{
+  "name": "CYQORA - Cyber Risk Quantification",
+  "description": "AI-Powered Cyber Risk Quantification & Investment Optimization Platform: From Risk Score to Rupees to the Right Investment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
